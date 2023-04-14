@@ -2,6 +2,6 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-INFO-2021/](https://ecored-sena.github.io/ECORED-BASE-INFO-2021/)
+[https://sena-externos.github.io/INFO_135401_MANEJO_INFORMACION_SISTEMAS_GESTION/](https://sena-externos.github.io/INFO_135401_MANEJO_INFORMACION_SISTEMAS_GESTION/)
 
 #
